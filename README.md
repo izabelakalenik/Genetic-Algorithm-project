@@ -1,5 +1,5 @@
 # Genetic-Algorithm-project
-Mini-project for the Techniques of Effective Programming course - 3rd semester.
+Mini-project for a Techniques of Effective Programming course - 3rd semester.
 
 The project required writing own method of the Genetic Algorithm, which would find the best solution to the Binary Knapsack Problem.
 
