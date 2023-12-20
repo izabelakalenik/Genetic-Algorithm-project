@@ -1,4 +1,4 @@
-# Genetic-Algorithm-project
+# Genetic Algorithm project
 Project for a Techniques of Effective Programming course - 3rd semester.
 
 The project required writing own method of the Genetic Algorithm, which would find the best solution to the Binary Knapsack Problem.
